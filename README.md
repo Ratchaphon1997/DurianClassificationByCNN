@@ -41,6 +41,7 @@
 * ขยายขอบเขตการจำแนกไปยังสายพันธุ์พื้นเมืองอื่นๆ
 
 ## 📝 จัดทำโดย
+<img width="818" height="114" alt="image" src="https://github.com/user-attachments/assets/59ea7746-e95a-4576-98e0-c16b85ca7910" />
 
 
 
